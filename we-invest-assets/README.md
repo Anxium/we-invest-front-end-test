@@ -41,10 +41,10 @@ As a user, I want to find all of the posts and comments when accessing the APP, 
 
 #### Acceptance Criteria's
 
-- [ ] The homepage should be accessible on the root url ("/") of the application.
+- [X] The homepage should be accessible on the root url ("/") of the application.
 - [ ] The user should be able to see all of the post that are available.
 - [ ] All of the comments related to the post should also be loaded with the post.
-- [ ] Should use the "posts.html" as template.
+- [X] Should use the "posts.html" as template.
 
 ### Sort the posts
 
@@ -61,7 +61,7 @@ As a user, I want to be able to copy the ID of a post to my clipboard, so that I
 _Acceptance Criteria_
 
 - [ ] The user should be able to use the dropdown menu on a post to copy the ID to clipboard.
-- [ ] He should recieve a alert when it's done or if there is an error.
+- [ ] He should recieve an alert when it's done or if there is an error.
 
 ### Delete a post
 
